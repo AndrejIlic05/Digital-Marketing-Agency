@@ -11,7 +11,7 @@ This repository contains the project files for a digital marketing agency websit
 Check out the live website [here](https://digital-marketing-agency-538d91.webflow.io/).
 
 ## 🖼️ Screenshot
-![Website Screenshot](path/to/your/screenshot.png)
+![Website Screenshot](Digital Marketing Agency.png)
 
 ## 🛠️ Technologies Used
 - **Webflow**: For design and development.
